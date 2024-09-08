@@ -1,12 +1,3 @@
-# NextJS with Firebase Auth App Router Template
-
-[See Live Demo of this Template](https://drt-next-js-template-app-router.netlify.app/)
-
-## Topics
-- [Get Started](#get-started)
-- [Starting the Project](#starting-the-project)
-- [Deploying on Netlify](#deploying-on-netlify)
-___
 # React Joke Generator
 
 [View Sample](https://ljkbro.csb.app/)
@@ -14,7 +5,6 @@ ___
 ## Topics
 - [Starting the Project](#starting-the-project)
 - [Deploying on Netlify](#deploying-on-netlify)
-___
 
 ## Project Deets
 You will be creating a Joke Generator!
@@ -27,6 +17,10 @@ This project is meant to get you thinking in React and to help you with some con
 1. When a user presses the "Get a Joke" button, the button text changes to "Get Punchline"
 1. When a user presses the "Get Punchline" button, both the joke setup and delivery are on the DOM along with a button that reads "Get Another Joke"
 1. When the user presses the "Get Another Joke" button, the app starts over from step 3.
+
+## NextJS with Firebase Auth App Router Template
+
+[See Live Demo of this Template](https://drt-next-js-template-app-router.netlify.app/)
 
 ### Use Template
 #### 1. To get started, click the GREEN "Use this Template" button at the top of the repo
