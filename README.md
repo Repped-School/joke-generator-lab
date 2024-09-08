@@ -18,6 +18,9 @@ This project is meant to get you thinking in React and to help you with some con
 1. When a user presses the "Get Punchline" button, both the joke setup and delivery are on the DOM along with a button that reads "Get Another Joke"
 1. When the user presses the "Get Another Joke" button, the app starts over from step 3.
 
+### Stretch Goal
+In future projects, you will have to make tickets for your work on project boards. Make at least 5 tickets that would have helped you stay organized in this project. Use [this resource](https://www.atlassian.com/agile/project-management/user-stories) to understand what a ticket looks like and how it should be written. Also, leverage ChatGPT to help with creating tickets so that you can learn faster.
+
 ## NextJS with Firebase Auth App Router Template
 
 [See Live Demo of this Template](https://drt-next-js-template-app-router.netlify.app/)
